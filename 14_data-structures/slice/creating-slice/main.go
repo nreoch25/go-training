@@ -27,5 +27,5 @@ func main() {
 	fmt.Println(makeslice)
 }
 
-// slice references an underlying array data structure
+// slice is a reference/pointer to an underlying array data structure
 // use append to add to a slice
